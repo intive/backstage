@@ -3216,7 +3216,7 @@ __metadata:
     "@types/lodash": "npm:^4.14.151"
     ajv: "npm:^8.10.0"
     lodash: "npm:^4.17.21"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -3388,7 +3388,7 @@ __metadata:
     util: "npm:^0.12.3"
     webpack: "npm:~5.96.0"
     webpack-dev-server: "npm:^5.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     yargs: "npm:^16.2.0"
     yml-loader: "npm:^2.1.0"
     yn: "npm:^4.0.0"
@@ -3468,7 +3468,7 @@ __metadata:
     minimist: "npm:^1.2.5"
     msw: "npm:^1.0.0"
     typescript-json-schema: "npm:^0.65.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zen-observable: "npm:^0.10.0"
   languageName: unknown
   linkType: soft
@@ -4771,7 +4771,7 @@ __metadata:
     aws-sdk-client-mock-jest: "npm:^4.0.0"
     p-limit: "npm:^3.0.2"
     uuid: "npm:^11.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -4809,7 +4809,7 @@ __metadata:
     openapi-merge: "npm:^1.3.2"
     openapi3-ts: "npm:^3.1.2"
     uuid: "npm:^11.0.0"
-    yaml: "npm:^2.7.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -5080,7 +5080,7 @@ __metadata:
     "@backstage/plugin-catalog-node": "workspace:^"
     "@backstage/types": "workspace:^"
     openapi-types: "npm:^12.0.0"
-    yaml: "npm:^2.1.1"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -5182,7 +5182,7 @@ __metadata:
     uuid: "npm:^11.0.0"
     wait-for-expect: "npm:^3.0.2"
     winston: "npm:^3.13.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     yn: "npm:^4.0.0"
     zod: "npm:^3.22.4"
   languageName: unknown
@@ -5282,7 +5282,7 @@ __metadata:
     react-hook-form: "npm:^7.12.2"
     react-router-dom: "npm:^6.3.0"
     react-use: "npm:^17.2.4"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   peerDependencies:
     "@types/react": ^17.0.0 || ^18.0.0
     react: ^17.0.0 || ^18.0.0
@@ -5310,7 +5310,7 @@ __metadata:
     "@backstage/types": "workspace:^"
     lodash: "npm:^4.17.21"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -5355,7 +5355,7 @@ __metadata:
     react-router-dom: "npm:^6.3.0"
     react-test-renderer: "npm:^16.13.1"
     react-use: "npm:^17.2.4"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zen-observable: "npm:^0.10.0"
     zod: "npm:^3.22.4"
   peerDependencies:
@@ -6514,7 +6514,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node": "workspace:^"
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     azure-devops-node-api: "npm:^14.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6534,7 +6534,7 @@ __metadata:
     bitbucket: "npm:^2.12.0"
     fs-extra: "npm:^11.2.0"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zod: "npm:^3.22.4"
   languageName: unknown
   linkType: soft
@@ -6553,7 +6553,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     fs-extra: "npm:^11.2.0"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6573,7 +6573,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     fs-extra: "npm:^11.2.0"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6593,7 +6593,7 @@ __metadata:
     git-url-parse: "npm:^15.0.0"
     msw: "npm:^1.0.0"
     node-html-markdown: "npm:^1.3.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6616,7 +6616,7 @@ __metadata:
     command-exists: "npm:^1.2.9"
     fs-extra: "npm:^11.2.0"
     winston: "npm:^3.2.1"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     yn: "npm:^4.0.0"
   languageName: unknown
   linkType: soft
@@ -6650,7 +6650,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node": "workspace:^"
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6667,7 +6667,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node": "workspace:^"
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     msw: "npm:^1.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6693,7 +6693,7 @@ __metadata:
     libsodium-wrappers: "npm:^0.7.11"
     octokit: "npm:^3.0.0"
     octokit-plugin-create-pull-request: "npm:^5.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zod: "npm:^3.22.4"
   languageName: unknown
   linkType: soft
@@ -6713,7 +6713,7 @@ __metadata:
     "@gitbeaker/requester-utils": "npm:^41.2.0"
     "@gitbeaker/rest": "npm:^41.2.0"
     luxon: "npm:^3.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zod: "npm:^3.22.4"
   languageName: unknown
   linkType: soft
@@ -6728,7 +6728,7 @@ __metadata:
     "@backstage/plugin-notifications-node": "workspace:^"
     "@backstage/plugin-scaffolder-node": "workspace:^"
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6751,7 +6751,7 @@ __metadata:
     command-exists: "npm:^1.2.9"
     fs-extra: "npm:^11.0.0"
     jest-when: "npm:^3.1.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6768,7 +6768,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     "@backstage/types": "workspace:^"
     msw: "npm:^2.0.0"
-    yaml: "npm:^2.3.3"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -6782,7 +6782,7 @@ __metadata:
     "@backstage/plugin-scaffolder-node-test-utils": "workspace:^"
     "@backstage/types": "workspace:^"
     winston: "npm:^3.2.1"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     yeoman-environment: "npm:^3.9.1"
   languageName: unknown
   linkType: soft
@@ -6852,7 +6852,7 @@ __metadata:
     wait-for-expect: "npm:^3.0.2"
     winston: "npm:^3.2.1"
     winston-transport: "npm:^4.7.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zen-observable: "npm:^0.10.0"
     zod: "npm:^3.22.4"
     zod-to-json-schema: "npm:^3.20.4"
@@ -7072,7 +7072,7 @@ __metadata:
     react-use: "npm:^17.2.4"
     react-window: "npm:^1.8.10"
     swr: "npm:^2.0.0"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
     zod: "npm:^3.22.4"
     zod-to-json-schema: "npm:^3.20.4"
   peerDependencies:
@@ -44989,7 +44989,7 @@ __metadata:
     typedoc: "npm:^0.28.0"
     typescript: "npm:~5.7.0"
     vite: "npm:^7.1.5"
-    yaml: "npm:^2.7.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
@@ -50369,12 +50369,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:^2.0.0, yaml@npm:^2.0.0-10, yaml@npm:^2.1.1, yaml@npm:^2.2.1, yaml@npm:^2.2.2, yaml@npm:^2.3.2, yaml@npm:^2.3.3, yaml@npm:^2.3.4, yaml@npm:^2.7.0, yaml@npm:^2.8.0":
+"yaml@npm:^2.0.0-10, yaml@npm:^2.2.1, yaml@npm:^2.2.2, yaml@npm:^2.3.2, yaml@npm:^2.3.4, yaml@npm:^2.7.0, yaml@npm:^2.8.0":
   version: 2.8.1
   resolution: "yaml@npm:2.8.1"
   bin:
     yaml: bin.mjs
   checksum: 10/eae07b3947d405012672ec17ce27348aea7d1fa0534143355d24a43a58f5e05652157ea2182c4fe0604f0540be71f99f1173f9d61018379404507790dff17665
+  languageName: node
+  linkType: hard
+
+"yaml@npm:^2.8.3":
+  version: 2.8.3
+  resolution: "yaml@npm:2.8.3"
+  bin:
+    yaml: bin.mjs
+  checksum: 10/ecad41d39d34fae5cc17ea2d4b7f7f55faacd45cbce8983ba22d48d1ed1a92ed242ea49ea813a79ac39a69f75f9c5a03e7b5395fd954d55476f25e21a47c141d
   languageName: node
   linkType: hard
 
@@ -50441,7 +50450,7 @@ __metadata:
     nodemon: "npm:^3.0.1"
     semver: "npm:^7.6.0"
     snyk-nodejs-lockfile-parser: "npm:^1.58.14"
-    yaml: "npm:^2.0.0"
+    yaml: "npm:^2.8.3"
   languageName: unknown
   linkType: soft
 
