@@ -35,7 +35,7 @@
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/version-bridge": "workspace:^",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
