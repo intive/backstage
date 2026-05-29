@@ -44,7 +44,7 @@
     "@backstage/types": "workspace:^",
     "express": "^4.17.1",
     "uuid": "^11.0.0",
-    "ws": "^8.18.0"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
